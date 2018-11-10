@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Change Location"
+
+        android:id="@+id/change_Location"
+        />
+
+    <item
+        android:title="About Softwere"
+        android:id="@+id/about_softweref"
+        />
+    <item
+        android:title="About Developer"
+        android:id="@+id/about_developer"
+        />
+
+</menu>
